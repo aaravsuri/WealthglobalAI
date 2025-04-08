@@ -1,0 +1,2 @@
+# WealthglobalAI
+Earning website 
